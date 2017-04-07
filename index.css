@@ -1,0 +1,210 @@
+body {
+background: linear-gradient(#ffff00, grey);
+background-repeat: no-repeat;
+background-size: 100%, 100%;
+font-family: Arial;
+}
+
+html{
+margin-left: 180px;
+margin-right: 180px;
+box-shadow: 0 0 5px 5px #888888;
+}
+
+h1{
+}
+
+.nav button {
+background: linear-gradient(grey, #ffff00);
+}
+
+p {
+margin-left: 150px;
+margin-right: 150px;
+margin-bottom: 20px;
+background-color: #ffff90;
+border: grey 1px solid;
+padding: 5px;
+}
+
+h2 {
+border-bottom: solid blue 1px;
+}
+
+h3 {
+border-bottom: solid blue 1px;
+}
+
+.header {
+text-align: center;
+text-shadow: 2px 2px #d8d7bc;
+background: linear-gradient(45deg,yellow,blue, yellow);
+margin-top: 0px;
+margin-bottom: 0px;
+}
+.header a:link {
+color: black;
+}
+
+.header a:visited {
+color: black;
+}
+
+a{
+text-decoration: none;
+}
+
+nav {
+background-image: url(sand.jpg);
+background-size: 100%, 40%;
+border: grey solid 1px;
+background-repeat: no-repeat;
+
+}
+
+marquee {
+background-color: #ffff80;
+border: grey solid 1px;
+}
+
+.more {
+}
+
+.nav {
+text-align: center;
+
+}
+
+.nav li  {
+display: inline;
+list-style-position: inline;
+color: grey;
+}
+
+.nav li button:hover {
+color: #2441ff;
+background: linear-gradient(#ffff00, grey);
+}
+
+.nav li button a:link {
+color: grey;
+}
+
+.nav li a:visited {
+color: grey;
+}
+
+.nav li button a:active {
+color: #2441ff;
+background: linear-gradient(#ffff00, grey);
+}
+
+.nav li button {
+padding-top: 3px;
+padding-bottom: 3px;
+width: 100px;
+color: black;
+font-size: 110%;
+box-shadow: 2px 2px 2px black;
+border: 0px;
+}
+
+.cred button{
+color: grey;
+}
+
+.cred button:hover {
+color: #2441ff;
+}
+
+.contact {
+text-align: center;
+font-size: 60%;
+margin-left: 200px;
+margin-right: 200px;
+margin-top: 100px;
+}
+
+#cHead {
+font-size: 110%;
+text-decoration: underline;
+}
+
+.eyecatch {
+font-style: bold;
+color: #2441ff;
+}
+
+#who {
+margin-left: 200px;
+margin-right: 200px;
+}
+
+#latest {
+text-align: center;
+background-color: linear-gradient(top,#2441ff, grey);
+text-decoration: underline;
+font-size: 160%;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+
+#spike {
+width: 30%;
+height: 30%;
+margin: 0 auto;
+display: block;
+border: solid 1px;
+}
+
+#indeximg li {
+text-align: center;
+list-style-type: none;
+padding: 3px;
+}
+
+#ladder {
+width: 45%;
+height: 45%;
+border: 1px solid black;
+margin-top: 5px;
+
+}
+
+#score {
+text-align: center;
+font-size: 75%;
+}
+
+#indeximg {
+padding: 5px;
+background-image: url(beachNet.jpg);
+background-size: 100% 100%;
+}
+
+#indeximg li button {
+background: linear-gradient(#2441ff, #ffff90);
+font-size: 150%;
+padding: 5px;
+width: 150px;
+height: 80px;
+border: 1px;
+}
+
+#indeximg li button:hover {
+background: linear-gradient(#ffff90,#2441ff);
+color: yellow;
+}
+
+#template {
+margin-left: 100px;
+}
+
+#template button {
+color: green;
+}
+
+#template li{
+margin-top: 3px;
+}
